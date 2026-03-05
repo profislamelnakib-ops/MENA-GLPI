@@ -1,0 +1,3 @@
+scripts/glpi_calculation.py
+scripts/arima_model.py
+scripts/lstm_model.py
